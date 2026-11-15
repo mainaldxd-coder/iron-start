@@ -1,0 +1,21 @@
+IRON START v2.0
+================
+INSTALACIÓN
+1. Extrae la carpeta IRON-START-v2.0 del ZIP.
+2. Abre la carpeta extraída.
+3. Haz doble clic en index.html.
+
+INCLUYE
+- Buscador Google, Bing y DuckDuckGo; las direcciones web se abren directamente.
+- Calendario mensual navegable.
+- Clima actual de Cajamarca mediante Open-Meteo (requiere Internet).
+- Accesos rápidos y opción para añadir nuevos; se guardan en este navegador.
+- Enlaces a Google News, noticias del Perú y Google Académico.
+- IRON AI abre ChatGPT en una pestaña nueva.
+- Configuración de animaciones, brillo y fondos; preferencias locales.
+
+NOTAS
+IRON START es una página de inicio, no un navegador completo.
+Los enlaces de noticias llevan a sitios externos; no se descargan titulares en la propia página.
+IRON AI abre ChatGPT; no incluye un modelo de IA propio ni usa una clave API.
+El clima y los servicios externos necesitan Internet. No hace falta instalar programas adicionales.
